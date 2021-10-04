@@ -4,6 +4,8 @@
 
 [seDirector](https://sedirector.net) is a game server management application.
 
+# Links
+
 |Description|URL|
 |--|--|
 |Main Website|https://sedirector.net|
@@ -16,3 +18,18 @@
 |General Discussion|https://sedirector.net/discuss|
 |Translations|https://sedirector.net/translations|
 |Application / API / Website Status|https://sedirector.net/status|
+
+# Screenshot
+![Screenshot](https://sedirector.net/images/01.png)
+
+# Supported Languages
+- English
+- Chinese (Taiwan)
+- Portuguese
+- Korean
+- Danish
+- Russian
+
+[Help translate!](https://github.com/seDirector/Translations)
+
+Contributors get a free contributor license.
