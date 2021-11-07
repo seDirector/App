@@ -4,6 +4,8 @@
 
 [seDirector](https://sedirector.net) is a game server management application.
 
+Please see the main website for details! 🤓
+
 # Links
 
 |Description|URL|
