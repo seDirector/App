@@ -17,6 +17,7 @@ Please see the main website for details! 🤓
 |Ideas / Suggestions|https://sedirector.net/ideas|
 |Planned Features / Roadmap|https://sedirector.net/roadmap|
 |Report a Bug|https://sedirector.net/bugs|
+|Bug Tracker|https://sedirector.net/bugtracker|
 |General Discussion|https://sedirector.net/discuss|
 |Translations|https://sedirector.net/translations|
 |Application / API / Website Status|https://sedirector.net/status|
