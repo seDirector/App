@@ -24,15 +24,3 @@ Please see the main website for details! 🤓
 
 # Screenshot
 ![Screenshot](https://sedirector.net/images/0.png)
-
-# Supported Languages
-- English
-- Chinese (Taiwan)
-- Portuguese
-- Korean
-- Danish
-- Russian
-
-[Help translate!](https://github.com/seDirector/Translations)
-
-Contributors get a free contributor license.
