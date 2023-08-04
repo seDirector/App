@@ -23,7 +23,7 @@ Please see the main website for details! 🤓
 |Application / API / Website Status|https://sedirector.net/status|
 
 # Screenshot
-![Screenshot](https://sedirector.net/images/01.png)
+![Screenshot](https://sedirector.net/images/1.png)
 
 # Supported Languages
 - English
