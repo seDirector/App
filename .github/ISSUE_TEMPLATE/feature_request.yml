@@ -1,8 +1,9 @@
 name: Feature Request
-about: Is there additional functionality you would love us to consider?
-title: ''
+description: Is there additional functionality you would love us to consider?
+title: '[Feature Request]: '
 labels: ["Enhancement"]
-assignees: 'asheroto'
+assignees:
+- asheroto
 body:
 - type: markdown
   attributes:
