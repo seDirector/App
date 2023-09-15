@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-description: Template for bug reports
+about: Template for bug reports
 title: '[Bug]: '
 assignees:
   - asheroto
