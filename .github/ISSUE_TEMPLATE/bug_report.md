@@ -1,8 +1,11 @@
+---
 name: Bug Report
 description: Template for bug reports
 title: '[Bug]: '
 assignees:
   - asheroto
+
+---
 body:
   - type: markdown
     attributes:
