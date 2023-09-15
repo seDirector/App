@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+- name: Create a Feature Request
+  url: https://github.com/seDirector/App/discussions
+  about: Add your idea to the community discussion.
 - name: Ask Question In Chat
   url: https://sedirector.net/discord
   about: Chat with our community and ask your question.
