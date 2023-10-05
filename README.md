@@ -130,7 +130,7 @@ seDirector is a free product, but if you want to help support development and wa
 If you would like to contribute to seDirector, we have several volunteer opportunities available:
 
 -   Translations
-    -   Although nowadays we can use AI to translate the application, it's not always accurate.
+    -   Although nowadays we can use AI to translate the application, it's not always accurate. Apart from making sure the translations are accurate, we also need to make sure the translations are not too long for the UI elements, and that they make sense in the context of the application.
 -   Beta Testing
     -   We are always looking for people to help test new features and bug fixes. There are only a limited number of slots available.
 -   Code Contributions
