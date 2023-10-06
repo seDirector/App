@@ -5,7 +5,7 @@ If you would like to contribute to seDirector, we have several volunteer opportu
 -   Translations
     -   Although nowadays we can use AI to translate the application, it's not always accurate. Apart from making sure the translations are accurate, we also need to make sure the translations are not too long for the UI elements, and that they make sense in the context of the application.
 -   Beta Testing
-    -   We are always looking for people to help test new features and bug fixes. There are only a limited number of slots available.
+    -   We currently have all slots filled for beta testing. We will make an announcement when the program open its applications again.
 -   Code Contributions
     -   Lately we have been working on a web control panel that works with the seDirector API on the background to provide a web interface for managing seDirector. Take a look at the [Control-Panel](https://github.com/seDirector/Control-Panel) repo. It is in the very early stages of development.
 -   Bug Reports
