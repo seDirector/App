@@ -16,7 +16,7 @@ If you would like to contribute to seDirector, we have several volunteer opportu
 
 # Contributor Benefits & License
 
--   All contributors who provide a _significant_ amount of data (see below) to seDirector will be granted a complimentary Contributor license, which has the same features as the Pro license. This means you will have access to all features of [seDirector](https://github.com/seDirector/App/wiki/Pro-Edition).
+-   All contributors who provide a _significant_ amount of data to seDirector will be granted a complimentary Contributor license, which has the same features as the Pro license. This means you will have access to all features of [seDirector](https://github.com/seDirector/App/wiki/Pro-Edition).
 -   Applicable contributors include those who translate seDirector, perform in-depth beta testing, or contribute to the codebase. The contributions must be significant enough to warrant a license. Generally that means 1+ hours of time, determined by the mods.
 -   Contributors _must_ remain active and participating with seDirector, on Discord and on GitHub. If no contributions have been made in over 2 months, even though the mods have requested translations, testing, or other assistance, your account may revert back to the free license. This is in order to ensure that the project remains active and contributors are participating. You can always purchase a Pro license if you wish to continue using the Pro features.
 -   Your username will be mentioned in seDirector, on the `Help > About` screen under the `Contributors` section.
