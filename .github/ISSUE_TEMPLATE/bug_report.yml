@@ -60,7 +60,7 @@ body:
       you are seeing.  NOTE: We may be unable to troubleshoot/respond to
       issues without reproducible steps. If you do not complete this section,
       there is a high chance your issue may be closed.
-    value: |-
+    placeholder: |-
       1. I ran this
       2. I clicked on this
       3. But it only happens with this game
@@ -75,7 +75,7 @@ body:
       a problem may only happen on specific systems, and this information can
       be vital to resolving your issue. At minimum, please include your
       operating system and seDirector version.
-    value: |-
+    placeholder: |-
       - Windows 11 Pro
       - seDirector 7.3.3
   validations:
@@ -88,7 +88,7 @@ body:
       Please include any other information here that you feel may be relevant
       to the problem you are seeing but is not covered in the previous
       sections.
-    value: Screenshots, etc
+    placeholder: Screenshots, etc
 - type: textarea
   id: sedirector-error-log
   attributes:
@@ -96,8 +96,3 @@ body:
     description: |
       If you have the file `C:\Program Files\seDirector\seDirector_error.log`
       please paste the output here, otherwise ignore this step
-- type: markdown
-  attributes:
-    value: |
-      This template was generated with [Issue Forms
-      Creator](https://issue-forms-creator.netlify.app)
