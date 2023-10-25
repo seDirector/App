@@ -36,9 +36,7 @@ body:
   attributes:
     label: What You Are Seeing?
     description: |
-      In your own words, please describe the problem that you are
-      experiencing. Please include images if possible, as this can give a
-      clearer indication of the problem.
+      In your own words, please describe the problem that you are experiencing. Please include images if possible, as this can give a clearer indication of the problem.
   validations:
     required: true
 - type: textarea
@@ -46,8 +44,7 @@ body:
   attributes:
     label: What is Expected?
     description: |
-      Instead of the behavior that you were seeing, what did you expect would
-      be happening instead?
+      Instead of the behavior that you were seeing, what did you expect would be happening instead?
   validations:
     required: true
 - type: textarea
@@ -55,11 +52,7 @@ body:
   attributes:
     label: How Did You Get This To Happen?
     description: |
-      Please include a complete set of reproducible steps that another user or
-      maintainer of the repository can follow to get the same behavior that
-      you are seeing.  NOTE: We may be unable to troubleshoot/respond to
-      issues without reproducible steps. If you do not complete this section,
-      there is a high chance your issue may be closed.
+      Please include a complete set of reproducible steps that another user or maintainer of the repository can follow to get the same behavior that you are seeing.
     placeholder: |-
       1. I ran this
       2. I clicked on this
@@ -71,10 +64,7 @@ body:
   attributes:
     label: System Details
     description: |
-      Please include as many details about your system as possible. Sometimes,
-      a problem may only happen on specific systems, and this information can
-      be vital to resolving your issue. At minimum, please include your
-      operating system and seDirector version.
+      Please include as many details about your system as possible. Sometimes, a problem may only happen on specific systems, and this information can be vital to resolving your issue. At minimum, please include your operating system and seDirector version.
     placeholder: |-
       - Windows 11 Pro
       - seDirector 7.3.3
@@ -85,14 +75,11 @@ body:
   attributes:
     label: Additional Context
     description: |
-      Please include any other information here that you feel may be relevant
-      to the problem you are seeing but is not covered in the previous
-      sections.
+      Please include any other information here that you feel may be relevant to the problem you are seeing but is not covered in the previous sections.
     placeholder: Screenshots, etc
 - type: textarea
   id: sedirector-error-log
   attributes:
     label: seDirector_error.log Output
     description: |
-      If you have the file `C:\Program Files\seDirector\seDirector_error.log`
-      please paste the output here, otherwise ignore this step
+      If you have the file `C:\Program Files\seDirector\seDirector_error.log` please paste the output here, otherwise ignore this step
