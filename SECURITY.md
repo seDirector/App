@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-If you find a vulnerability, please e-mail support [at] sedirector [dot] net with details and we will address it immediately.
+If you find a security/vulnerability/privacy issue, please [report a security vulnerability](https://github.com/seDirector/App/security/advisories/new).
